@@ -1,6 +1,6 @@
 function Home() {
    return <h1>
-    Você é cagona
+    Amo ter uma família com você
    </h1>
     
 }
